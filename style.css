@@ -1,0 +1,24 @@
+body{
+    background:beige;   
+}
+.headerdiv{
+    background:rgb(237, 109, 63);
+    color: white;
+}
+.headerdiv p{
+    color: rgb(167, 221, 255);
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+.div_principal button{
+    width: 250px;
+    margin-top: 30px;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+.pie_de_pagina{
+    position:fixed;
+    color:darkslategrey;
+    bottom: 0px;
+    width: 100%;
+}
